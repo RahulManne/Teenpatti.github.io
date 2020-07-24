@@ -1,5 +1,6 @@
 .container-5{
     background-image: url(https://us.123rf.com/450wm/kurkalukas/kurkalukas1711/kurkalukas171100001/89106800-vector-poker-black-background-playing-card-symbols-pattern-blackjack.jpg?ver=6);
+    background-size: cover;
     width: 100%;
     margin: 0 auto;
     text-align: center;
@@ -16,6 +17,7 @@
 .flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3{
     background-image: url(https://us.123rf.com/450wm/kurkalukas/kurkalukas1711/kurkalukas171100001/89106800-vector-poker-black-background-playing-card-symbols-pattern-blackjack.jpg?ver=6);
     color: whitesmoke;
+    background-size: cover;
 }
 
 .flex-blackjack-row-1 div {
